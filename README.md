@@ -6,7 +6,7 @@ CS4.7生成python类型shellcode
 
 ![image-20230323173046659](https://img2023.cnblogs.com/blog/2411575/202303/2411575-20230323173046883-891160038.png)
 
-保存为payload.py与Bypass.py放在一个目录下
+保存为payload.py与Bypass.py放在一个目录下，单独运行Bypass.py即可
 
 ![image-20230323174256475](https://img2023.cnblogs.com/blog/2411575/202303/2411575-20230323174256651-1588728063.png)
 
