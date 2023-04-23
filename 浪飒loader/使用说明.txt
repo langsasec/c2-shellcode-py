@@ -1,0 +1,6 @@
+1.将payload.py与浪飒txt生成器.exe放同一目录
+2.双击浪飒txt生成器.exe会生成浪飒.txt
+3.将浪飒.txt与浪飒loader.exe上传目标服务器同一目录
+4.运行浪飒loader.exe即可上线
+
+这是给杀软出的简单题
