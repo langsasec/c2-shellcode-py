@@ -1,6 +1,9 @@
 # c2-shellcode-py
 免杀360，火绒的Python-shellcode加载器，可直接生成可执行文件exe
 
+## 2023.4.28更新
+BypassAV-langsa.py你懂得，注意多了个requirement
+
 ## 2023.4.23更新
 浪飒loader由于hash死的所以火绒也g了
 
