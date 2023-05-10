@@ -1,6 +1,9 @@
 # c2-shellcode-py
 免杀360，火绒的Python-shellcode加载器，可直接生成可执行文件exe
 
+关注浪飒sec公众号
+![gzh](https://langsa.langsasec.cn/images/gzh.jpg)
+
 ## 2023.4.28更新
 BypassAV-langsa.py你懂得，注意多了个requirement
 
