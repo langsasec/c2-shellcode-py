@@ -2,7 +2,10 @@
 免杀360，火绒的Python-shellcode加载器，可直接生成可执行文件exe
 
 ![image](https://github.com/langsasec/c2-shellcode-py/assets/45072131/ada70466-b193-43ee-bfba-1fa15e5b4da2)
+## 2023 6.4更新
+浪飒loader.exe更新，g了及时反馈，不然我咋更新
 
+https://github.com/langsasec/c2-shellcode-py/tree/main/%E6%B5%AA%E9%A3%92loader
 ## 2023.4.28更新
 BypassAV-langsa.py你懂得，注意多了个requirement
 
