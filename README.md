@@ -2,6 +2,10 @@
 免杀360，火绒的Python-shellcode加载器，可直接生成可执行文件exe
 
 ![image](https://github.com/langsasec/c2-shellcode-py/assets/45072131/ada70466-b193-43ee-bfba-1fa15e5b4da2)
+## 停更
+
+为保证付费社群利益，本项目停更：https://mp.weixin.qq.com/s?__biz=MzI1ODM1MjUxMQ==&mid=2247493072&idx=1&sn=3e4c49d4e9d09d8ef94d8db96b6ad13d&chksm=ea0bd1c0dd7c58d6a559107f2d113cb8ad97be06bf1e7a4079c91994195a7ebb507d4ec9165d#rd
+
 ## 2023 6.4更新
 浪飒loader.exe更新，g了及时反馈，不然我咋更新
 
