@@ -1,3 +1,0 @@
-pycryptodome==3.17
-PyInstaller==5.9.0
-langsa-system==1.0
